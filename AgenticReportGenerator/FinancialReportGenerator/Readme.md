@@ -22,7 +22,7 @@ Financial Report Generator is a .NET 8 application designed to create comprehens
 1. Clone the repository:
    
 2. Set up environment variables:
-   Create a `.env` file in the root directory and add the following variables:
+   Create a `.env` file in the root directory and add the variables present in sampleenv.env (or) rename sampleenv.env as .env
    
 3. Build the project:
    
